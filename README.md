@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B497FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+fast+UIs+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript;%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C+%D8%B1%D8%A7%D8%A8%D8%B7%E2%80%8C%D9%87%D8%A7%DB%8C+%D8%AA%D9%85%DB%8C%D8%B2+%F0%9F%8E%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B497FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+fast+UIs+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,12 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="#english">🇬🇧 English</a> • <a href="#فارسی">🇮🇷 فارسی</a>
+  📖 Read this in: <b>English</b> | <a href="README.fa.md">🇮🇷 فارسی</a>
 </p>
 
 ---
-
-## English
 
 - 🎓 Undergraduate student, focused on front-end development
 - 💻 I build clean, fast, and user-friendly web interfaces
@@ -34,24 +32,7 @@
 
 ---
 
-## فارسی
-
-<div align="right" dir="rtl">
-
-- 🎓 دانشجوی کارشناسی، متمرکز روی توسعه فرانت‌اند
-- 💻 رابط‌های کاربری تمیز، سریع و کاربرپسند می‌سازم
-- 🏔️ در حال ساخت یک **پلتفرم گردشگری طبیعت و کوهنوردی** هستم — پروژه کپ‌استون دانشگاهی (React)، به‌همراه نسخه فول‌استک آن (Next.js + Django) برای بازار ایران
-- 🥷 یه آموزش تعاملی فارسی برای **Senpai VPN** ساختم — چون حتی نینجاها هم به یه UI تمیز نیاز دارن
-- 🌱 همیشه در حال لول‌آپ کردن — یک کامیت در هر لحظه
-- 📫 راه ارتباطی: تلگرام [@Charli_x22](https://t.me/Charli_x22) یا [ایمیل](mailto:jordad666@gmail.com)
-
-> *«کد تمیز مثل یه پنل خوش‌طراحی مانگاست — هر خط یه دلیل داره.»*
-
-</div>
-
----
-
-### 🛠️ Tech Stack | تکنولوژی‌ها
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,django,postgres,git,github&theme=dark" />
@@ -80,4 +61,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — let's build something cool! | ممنون که سر زدی — بیا یه چیز باحال بسازیم!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by — let's build something cool!</i></p>
